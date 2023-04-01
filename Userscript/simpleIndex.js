@@ -1,3 +1,5 @@
+//Ref:https://scrapbox.io/scrapboxlab/強調記法からページの見出しを作るUserScript
+
 const boldDeco = "[* "
 const boldDeco2 = "[** "
 const marginLeftIndent = "● "
